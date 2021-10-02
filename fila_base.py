@@ -1,4 +1,5 @@
 import abc
+
 from constantes import TAMANHO_PADRAO_MAXIMO, TAMANHO_PADRAO_MINIM0
 
 
